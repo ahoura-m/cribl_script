@@ -1,4 +1,4 @@
-# CRIBL WRITTEN ASSIGNMENT SCRIPT
+# Cribl Written Assignment Script
 This script will grab weather forecast for the town of Cool, Texas and saves it into S3
 
 ## Getting Started
