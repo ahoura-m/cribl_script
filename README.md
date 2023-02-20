@@ -15,7 +15,11 @@ $ cd cribl_script
 
 # Install dependencies
 $ npm install
+```
 
+In the .env file, add your AWS credential and the bucket name. Now you can run the script using the following command.
+
+```bash
 # Run the app
 $ npm start
 ```

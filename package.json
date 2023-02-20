@@ -1,0 +1,15 @@
+{
+  "name": "cribl-script",
+  "version": "1.0.0",
+  "description": "This scrupt will grab weather data for Cool, Texas and output it via http in JSON format to S3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1318.0",
+    "dotenv": "^16.0.3"
+  }
+}
